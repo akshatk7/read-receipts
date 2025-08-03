@@ -123,7 +123,7 @@ let mockDecisions: Decision[] = [
     project: 'Customer Support',
     dueAt: '2025-08-30T00:00:00Z',
     createdAt: '2024-02-20T10:00:00Z',
-    authorId: 'user_2', // Nate Lemeiux requesting alignment
+    authorId: 'user_2', // Sarah Chen requesting alignment
     receipts: [
       { userId: 'user_1', stance: null, respondedAt: null }, // Akshat hasn't responded yet
       { userId: 'user_3', stance: 'AGREE', respondedAt: '2024-02-21T14:30:00Z' },
@@ -137,7 +137,7 @@ let mockDecisions: Decision[] = [
     project: 'Merchant Tools',
     dueAt: '2025-09-10T00:00:00Z',
     createdAt: '2024-02-25T09:15:00Z',
-    authorId: 'user_3', // Willa Zhang requesting alignment
+    authorId: 'user_3', // Michael Rodriguez requesting alignment
     receipts: [
       { userId: 'user_1', stance: null, respondedAt: null }, // Akshat hasn't responded yet
       { userId: 'user_2', stance: 'AGREE', respondedAt: '2024-02-26T11:20:00Z' },
@@ -151,7 +151,7 @@ let mockDecisions: Decision[] = [
     project: 'Driver Operations',
     dueAt: '2025-09-25T00:00:00Z',
     createdAt: '2024-03-01T13:45:00Z',
-    authorId: 'user_4', // Olivia Xu requesting alignment
+    authorId: 'user_4', // Emily Johnson requesting alignment
     receipts: [
       { userId: 'user_1', stance: 'AGREE', respondedAt: '2024-03-02T16:00:00Z' }, // Akshat has agreed
       { userId: 'user_2', stance: null, respondedAt: null },
@@ -165,7 +165,7 @@ let mockDecisions: Decision[] = [
     project: 'Data Infrastructure',
     dueAt: '2025-10-05T00:00:00Z',
     createdAt: '2024-03-05T08:30:00Z',
-    authorId: 'user_5', // Erin Butler requesting alignment
+    authorId: 'user_5', // David Kim requesting alignment
     receipts: [
       { userId: 'user_1', stance: null, respondedAt: null }, // Akshat hasn't responded yet
       { userId: 'user_3', stance: 'AGREE', respondedAt: '2024-03-06T12:15:00Z' },
@@ -179,7 +179,7 @@ let mockDecisions: Decision[] = [
     project: 'Marketing',
     dueAt: '2025-10-15T00:00:00Z',
     createdAt: '2024-03-10T11:20:00Z',
-    authorId: 'user_6', // Natalie Binns requesting alignment
+    authorId: 'user_6', // Lisa Thompson requesting alignment
     receipts: [
       { userId: 'user_1', stance: null, respondedAt: null }, // Akshat hasn't responded yet
       { userId: 'user_8', stance: null, respondedAt: null },

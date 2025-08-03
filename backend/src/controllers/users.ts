@@ -12,74 +12,74 @@ const mockUsers: User[] = [
   },
   {
     id: 'user_2',
-    name: 'Nate Lemeiux',
-    email: 'nate@doordash.com',
+    name: 'Sarah Chen',
+    email: 'sarah@doordash.com',
     avatar: 'https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face'
   },
   {
     id: 'user_3',
-    name: 'Willa Zhang',
-    email: 'willa@doordash.com',
+    name: 'Michael Rodriguez',
+    email: 'michael@doordash.com',
     avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face'
   },
   {
     id: 'user_4',
-    name: 'Olivia Xu',
-    email: 'olivia@doordash.com',
+    name: 'Emily Johnson',
+    email: 'emily@doordash.com',
     avatar: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face'
   },
   {
     id: 'user_5',
-    name: 'Erin Butler',
-    email: 'erin@doordash.com',
+    name: 'David Kim',
+    email: 'david@doordash.com',
     avatar: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=face'
   },
   {
     id: 'user_6',
-    name: 'Natalie Binns',
-    email: 'natalie@doordash.com',
+    name: 'Lisa Thompson',
+    email: 'lisa@doordash.com',
     avatar: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150&fit=crop&crop=face'
   },
   {
     id: 'user_7',
-    name: 'Don Lee',
-    email: 'don@doordash.com',
+    name: 'James Wilson',
+    email: 'james@doordash.com',
     avatar: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150&h=150&fit=crop&crop=face'
   },
   {
     id: 'user_8',
-    name: 'Stephen Kent',
-    email: 'stephen@doordash.com',
+    name: 'Rachel Green',
+    email: 'rachel@doordash.com',
     avatar: 'https://images.unsplash.com/photo-1487412720507-7e378215f2c8?w=150&h=150&fit=crop&crop=face'
   },
   {
     id: 'user_9',
-    name: 'Lambie Lanman',
-    email: 'lambie@doordash.com',
+    name: 'Alex Martinez',
+    email: 'alex@doordash.com',
     avatar: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150&h=150&fit=crop&crop=face'
   },
   {
     id: 'user_10',
-    name: 'Kun Hu',
-    email: 'kun@doordash.com',
+    name: 'Sophie Williams',
+    email: 'sophie@doordash.com',
     avatar: 'https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face'
   },
   {
     id: 'user_11',
-    name: 'Charlie Furrer',
-    email: 'charlie@doordash.com',
+    name: 'Ryan Davis',
+    email: 'ryan@doordash.com',
     avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face'
   },
   {
     id: 'user_12',
-    name: 'Peng Zhai',
-    email: 'peng@doordash.com',
+    name: 'Maria Garcia',
+    email: 'maria@doordash.com',
     avatar: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face'
   },
   {
     id: 'user_13',
-    name: 'Xin Chen',
-    email: 'xin@doordash.com',
+    name: 'Kevin Brown',
+    email: 'kevin@doordash.com',
     avatar: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=face'
   }
 ];
